@@ -10,5 +10,7 @@ public class AnimalTeste {
 		System.out.println(passaro.botarOvo());
 		System.out.println(cavalo.comer());
 		System.out.println(cavalo.mama());
+		System.out.println(cavalo.dormir());
+		System.out.println(passaro.fazerBarulho());
 	}
 }
