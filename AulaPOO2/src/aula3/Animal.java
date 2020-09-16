@@ -6,6 +6,7 @@ public class Animal {
 	public String dormir;
 	public String fazerBarulho;
  
+	
 	public String comer() {
 		return "o animal comeu: ";
 	}
